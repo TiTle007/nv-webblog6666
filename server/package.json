@@ -5,6 +5,7 @@
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "thanawat mankhetkon",
   "license": "ISC",
@@ -13,5 +14,8 @@
     "express": "^4.18.2",
     "sequelize": "^6.32.1",
     "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
